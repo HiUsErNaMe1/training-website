@@ -20,7 +20,7 @@ function Population() {
         </aside>
 
         <article className="col-md-9">
-          <h2 className="h2 text-success mb-4">Ареал поширення зайців</h2>
+          <h2 className="h2 text-success mb-4">Ареал поширення куниць</h2>
           
           <section id="continents" className="mt-4">
             <h3>
@@ -55,8 +55,8 @@ function Population() {
             </h3>
             <div className="collapse" id="subcontinentsList">
               <ul className="list-group mb-3">
-                <li className="list-group-item">Західна Азія</li>
-                <li className="list-group-item">Центральна Азія</li>
+                <li className="list-group-item">Західна Європа</li>
+                <li className="list-group-item">Північна Європа</li>
               </ul>
             </div>
           </section>
@@ -178,9 +178,9 @@ function Population() {
             </h3>
             <div className="collapse" id="biomesList">
               <ul className="list-group">
-                <li className="list-group-item">Помірні луки</li>
-                <li className="list-group-item">Савани і чагарники</li>
-                <li className="list-group-item">Субтропічний ліс</li>
+                <li className="list-group-item">Помірні широколисті та мішані ліси</li>
+                <li className="list-group-item">Гірські луки та чагарники</li>
+                <li className="list-group-item">Бореальні ліси та тайга</li>
               </ul>
             </div>
           </section>
